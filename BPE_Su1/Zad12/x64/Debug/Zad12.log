@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\Mert\source\repos\BPE_Su1\Zad12\Source.c(14,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Mert\source\repos\BPE_Su1\Zad12\Source.c(15,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Mert\source\repos\BPE_Su1\Zad12\Source.c(16,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Mert\source\repos\BPE_Su1\Zad12\Source.c(19,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Zad12.vcxproj -> C:\Users\Mert\source\repos\BPE_Su1\x64\Debug\Zad12.exe

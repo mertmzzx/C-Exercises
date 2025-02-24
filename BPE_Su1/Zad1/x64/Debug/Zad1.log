@@ -1,0 +1,4 @@
+﻿  Zad1.c
+C:\Users\Mert\source\repos\BPE_Su1\BPE_Su1\Zad1.c(14,9): warning C4477: 'printf' : format string '%.2f' requires an argument of type 'double', but variadic argument 1 has type 'double *'
+C:\Users\Mert\source\repos\BPE_Su1\BPE_Su1\Zad1.c(15,9): warning C4477: 'printf' : format string '%.2f' requires an argument of type 'double', but variadic argument 1 has type 'double *'
+  Zad1.vcxproj -> C:\Users\Mert\source\repos\BPE_Su1\x64\Debug\Zad1.exe

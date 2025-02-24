@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\Mert\source\repos\BPE_Su1\Zad2\Source.c(14,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+C:\Users\Mert\source\repos\BPE_Su1\Zad2\Source.c(14,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'double'
+  Zad2.vcxproj -> C:\Users\Mert\source\repos\BPE_Su1\x64\Debug\Zad2.exe
