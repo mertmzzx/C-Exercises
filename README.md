@@ -1,2 +1,6 @@
-# C-Exercises
-Solved problems from second semester at TU Sofia
+# Exercises-With-C
+The problems' solutions uploaded here are coded by the author of this repostinary. 
+They are intended **only** for educational purposes.
+
+*Feel free to use them through your learning process.*
+
