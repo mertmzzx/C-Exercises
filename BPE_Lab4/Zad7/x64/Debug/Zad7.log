@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\Mert\source\repos\BPE_Lab4\Zad7\Source.c(34,55): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mert\source\repos\BPE_Lab4\Zad7\Source.c(38,56): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Zad7.vcxproj -> C:\Users\Mert\source\repos\BPE_Lab4\x64\Debug\Zad7.exe

@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mert\\source\\repos\\BPE_Lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{551C28C7-1A33-40FE-81B9-1EB003EEFB16}|Zad7\\Zad7.vcxproj|C:\\Users\\Mert\\source\\repos\\BPE_Lab4\\Zad7\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{551C28C7-1A33-40FE-81B9-1EB003EEFB16}|Zad7\\Zad7.vcxproj|solutionrelative:Zad7\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6415A3F9-5792-4DCD-9209-7203D882CF35}|Zad6\\Zad6.vcxproj|C:\\Users\\Mert\\source\\repos\\BPE_Lab4\\Zad6\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6415A3F9-5792-4DCD-9209-7203D882CF35}|Zad6\\Zad6.vcxproj|solutionrelative:Zad6\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A369BE-D3FE-42BA-99D8-5670C9752248}|Zad5\\Zad5.vcxproj|C:\\Users\\Mert\\source\\repos\\BPE_Lab4\\Zad5\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56A369BE-D3FE-42BA-99D8-5670C9752248}|Zad5\\Zad5.vcxproj|solutionrelative:Zad5\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7774CC7-FB68-4461-8054-D5A8F9E62C66}|Zad4\\Zad4.vcxproj|C:\\Users\\Mert\\source\\repos\\BPE_Lab4\\Zad4\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A7774CC7-FB68-4461-8054-D5A8F9E62C66}|Zad4\\Zad4.vcxproj|solutionrelative:Zad4\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D411682F-6C2E-4404-BEE2-AF8179D35873}|Zad3\\Zad3.vcxproj|C:\\Users\\Mert\\source\\repos\\BPE_Lab4\\Zad3\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D411682F-6C2E-4404-BEE2-AF8179D35873}|Zad3\\Zad3.vcxproj|solutionrelative:Zad3\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BA06EFE-7CCA-4237-87C6-D1683ABF5FC2}|Zad2\\Zad2.vcxproj|C:\\Users\\Mert\\source\\repos\\BPE_Lab4\\Zad2\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BA06EFE-7CCA-4237-87C6-D1683ABF5FC2}|Zad2\\Zad2.vcxproj|solutionrelative:Zad2\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2981EE25-DB4C-4B16-A673-B604D36FE026}|BPE_Lab4\\BPE_Lab4.vcxproj|C:\\Users\\Mert\\source\\repos\\BPE_Lab4\\BPE_Lab4\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2981EE25-DB4C-4B16-A673-B604D36FE026}|BPE_Lab4\\BPE_Lab4.vcxproj|solutionrelative:BPE_Lab4\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\BPE_Lab4\\Zad7\\Source.c",
+              "RelativeDocumentMoniker": "Zad7\\Source.c",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\BPE_Lab4\\Zad7\\Source.c",
+              "RelativeToolTip": "Zad7\\Source.c",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-10T13:21:30.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\BPE_Lab4\\Zad6\\Source.c",
+              "RelativeDocumentMoniker": "Zad6\\Source.c",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\BPE_Lab4\\Zad6\\Source.c",
+              "RelativeToolTip": "Zad6\\Source.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-10T13:19:26.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\BPE_Lab4\\Zad5\\Source.c",
+              "RelativeDocumentMoniker": "Zad5\\Source.c",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\BPE_Lab4\\Zad5\\Source.c",
+              "RelativeToolTip": "Zad5\\Source.c",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-10T13:00:37.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\BPE_Lab4\\Zad4\\Source.c",
+              "RelativeDocumentMoniker": "Zad4\\Source.c",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\BPE_Lab4\\Zad4\\Source.c",
+              "RelativeToolTip": "Zad4\\Source.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-10T12:58:28.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\BPE_Lab4\\Zad3\\Source.c",
+              "RelativeDocumentMoniker": "Zad3\\Source.c",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\BPE_Lab4\\Zad3\\Source.c",
+              "RelativeToolTip": "Zad3\\Source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-10T12:57:10.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\BPE_Lab4\\Zad2\\Source.c",
+              "RelativeDocumentMoniker": "Zad2\\Source.c",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\BPE_Lab4\\Zad2\\Source.c",
+              "RelativeToolTip": "Zad2\\Source.c",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-10T12:54:37.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\BPE_Lab4\\BPE_Lab4\\Source.c",
+              "RelativeDocumentMoniker": "BPE_Lab4\\Source.c",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\BPE_Lab4\\BPE_Lab4\\Source.c",
+              "RelativeToolTip": "BPE_Lab4\\Source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-10T12:53:13.657Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
