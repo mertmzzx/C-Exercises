@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\Mert\source\repos\BPE_Su2\Zad4\Source.c(18,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Mert\source\repos\BPE_Su2\Zad4\Source.c(22,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Zad4.vcxproj -> C:\Users\Mert\source\repos\BPE_Su2\x64\Debug\Zad4.exe

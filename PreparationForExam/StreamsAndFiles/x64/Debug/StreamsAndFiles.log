@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\Mert\source\repos\PreparationForExam\StreamsAndFiles\Source.c(46,3): warning C4098: 'WriteFile': 'void' function returning a value
+  StreamsAndFiles.vcxproj -> C:\Users\Mert\source\repos\PreparationForExam\x64\Debug\TextFiles.exe

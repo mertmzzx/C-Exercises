@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mert\\source\\repos\\PreparationForExam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42C81C10-4FEF-481F-B75A-A121754174D0}|Exercise3\\Exercise3.vcxproj|C:\\Users\\Mert\\source\\repos\\PreparationForExam\\Exercise3\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{42C81C10-4FEF-481F-B75A-A121754174D0}|Exercise3\\Exercise3.vcxproj|solutionrelative:Exercise3\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90821C86-E5E7-411B-B3FC-53C96D58474D}|Exercise2\\Exercise2.vcxproj|C:\\Users\\Mert\\source\\repos\\PreparationForExam\\Exercise2\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90821C86-E5E7-411B-B3FC-53C96D58474D}|Exercise2\\Exercise2.vcxproj|solutionrelative:Exercise2\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CF89F22-88BD-4C7B-AD18-E2B2B9EC0A46}|Exercise1\\Exercise1.vcxproj|C:\\Users\\Mert\\source\\repos\\PreparationForExam\\Exercise1\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1CF89F22-88BD-4C7B-AD18-E2B2B9EC0A46}|Exercise1\\Exercise1.vcxproj|solutionrelative:Exercise1\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AC2F3E-D6BE-48A4-A819-F9E886C2B706}|StreamsAndFiles\\StreamsAndFiles.vcxproj|C:\\Users\\Mert\\source\\repos\\PreparationForExam\\StreamsAndFiles\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{61AC2F3E-D6BE-48A4-A819-F9E886C2B706}|StreamsAndFiles\\StreamsAndFiles.vcxproj|solutionrelative:StreamsAndFiles\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A2DBB9-2B31-4A6F-A3C8-DBE0E872F200}|BinaryFiles\\BinaryFiles.vcxproj|C:\\Users\\Mert\\source\\repos\\PreparationForExam\\BinaryFiles\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{53A2DBB9-2B31-4A6F-A3C8-DBE0E872F200}|BinaryFiles\\BinaryFiles.vcxproj|solutionrelative:BinaryFiles\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A34DD20-6131-4C82-9EB1-DFE6BF6BB313}|DynamicArrays\\DynamicArrays.vcxproj|C:\\Users\\Mert\\source\\repos\\PreparationForExam\\DynamicArrays\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A34DD20-6131-4C82-9EB1-DFE6BF6BB313}|DynamicArrays\\DynamicArrays.vcxproj|solutionrelative:DynamicArrays\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\PreparationForExam\\Exercise3\\Source.c",
+              "RelativeDocumentMoniker": "Exercise3\\Source.c",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\PreparationForExam\\Exercise3\\Source.c",
+              "RelativeToolTip": "Exercise3\\Source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-09T15:07:59.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\PreparationForExam\\Exercise2\\Source.c",
+              "RelativeDocumentMoniker": "Exercise2\\Source.c",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\PreparationForExam\\Exercise2\\Source.c",
+              "RelativeToolTip": "Exercise2\\Source.c",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-09T11:02:36.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\PreparationForExam\\StreamsAndFiles\\Source.c",
+              "RelativeDocumentMoniker": "StreamsAndFiles\\Source.c",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\PreparationForExam\\StreamsAndFiles\\Source.c",
+              "RelativeToolTip": "StreamsAndFiles\\Source.c",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-08T14:47:54.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\PreparationForExam\\DynamicArrays\\Source.c",
+              "RelativeDocumentMoniker": "DynamicArrays\\Source.c",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\PreparationForExam\\DynamicArrays\\Source.c",
+              "RelativeToolTip": "DynamicArrays\\Source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-08T13:37:06.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\PreparationForExam\\Exercise1\\Source.c",
+              "RelativeDocumentMoniker": "Exercise1\\Source.c",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\PreparationForExam\\Exercise1\\Source.c",
+              "RelativeToolTip": "Exercise1\\Source.c",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAAHcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-08T13:20:11.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\PreparationForExam\\BinaryFiles\\Source.c",
+              "RelativeDocumentMoniker": "BinaryFiles\\Source.c",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\PreparationForExam\\BinaryFiles\\Source.c",
+              "RelativeToolTip": "BinaryFiles\\Source.c",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-07T15:36:08.135Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

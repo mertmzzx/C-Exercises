@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\Mert\source\repos\PreparationForExam\BinaryFiles\Source.c(14,3): warning C4098: 'WriteFile': 'void' function returning a value
+C:\Users\Mert\source\repos\PreparationForExam\BinaryFiles\Source.c(37,3): warning C4098: 'ReadFromFile': 'void' function returning a value
+  BinaryFiles.vcxproj -> C:\Users\Mert\source\repos\PreparationForExam\x64\Debug\BinaryFiles.exe

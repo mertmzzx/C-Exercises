@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mert\\source\\repos\\BPE_Su2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD921633-F33F-423E-BEE7-CDE66A6FB6FB}|Zad7\\Zad7.vcxproj|C:\\Users\\Mert\\source\\repos\\BPE_Su2\\Zad7\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD921633-F33F-423E-BEE7-CDE66A6FB6FB}|Zad7\\Zad7.vcxproj|solutionrelative:Zad7\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD41E74-D51B-4900-B57E-0E8AC350A34D}|Zad4\\Zad4.vcxproj|C:\\Users\\Mert\\source\\repos\\BPE_Su2\\Zad4\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FBD41E74-D51B-4900-B57E-0E8AC350A34D}|Zad4\\Zad4.vcxproj|solutionrelative:Zad4\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C81BE1CA-9F14-4488-8880-5ADA6C5D3077}|Zad3\\Zad3.vcxproj|C:\\Users\\Mert\\source\\repos\\BPE_Su2\\Zad3\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C81BE1CA-9F14-4488-8880-5ADA6C5D3077}|Zad3\\Zad3.vcxproj|solutionrelative:Zad3\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883C938E-0BB6-48EE-A317-1C587E3DC5FA}|Zad2\\Zad2.vcxproj|C:\\Users\\Mert\\source\\repos\\BPE_Su2\\Zad2\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{883C938E-0BB6-48EE-A317-1C587E3DC5FA}|Zad2\\Zad2.vcxproj|solutionrelative:Zad2\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574206C9-EE8B-4674-905E-580116FC715E}|Zad5\\Zad5.vcxproj|C:\\Users\\Mert\\source\\repos\\BPE_Su2\\Zad5\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{574206C9-EE8B-4674-905E-580116FC715E}|Zad5\\Zad5.vcxproj|solutionrelative:Zad5\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3203886-559E-4B4A-9B45-96DF832CD4C0}|BPE_Su2\\BPE_Su2.vcxproj|C:\\Users\\Mert\\source\\repos\\BPE_Su2\\BPE_Su2\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E3203886-559E-4B4A-9B45-96DF832CD4C0}|BPE_Su2\\BPE_Su2.vcxproj|solutionrelative:BPE_Su2\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\BPE_Su2\\Zad7\\Source.c",
+              "RelativeDocumentMoniker": "Zad7\\Source.c",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\BPE_Su2\\Zad7\\Source.c",
+              "RelativeToolTip": "Zad7\\Source.c",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-05T06:52:35.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\BPE_Su2\\Zad5\\Source.c",
+              "RelativeDocumentMoniker": "Zad5\\Source.c",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\BPE_Su2\\Zad5\\Source.c",
+              "RelativeToolTip": "Zad5\\Source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-05T06:36:24.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\BPE_Su2\\Zad4\\Source.c",
+              "RelativeDocumentMoniker": "Zad4\\Source.c",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\BPE_Su2\\Zad4\\Source.c",
+              "RelativeToolTip": "Zad4\\Source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-05T06:26:17.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\BPE_Su2\\Zad3\\Source.c",
+              "RelativeDocumentMoniker": "Zad3\\Source.c",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\BPE_Su2\\Zad3\\Source.c",
+              "RelativeToolTip": "Zad3\\Source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-05T06:23:13.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\BPE_Su2\\Zad2\\Source.c",
+              "RelativeDocumentMoniker": "Zad2\\Source.c",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\BPE_Su2\\Zad2\\Source.c",
+              "RelativeToolTip": "Zad2\\Source.c",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-05T06:13:09.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\BPE_Su2\\BPE_Su2\\Source.c",
+              "RelativeDocumentMoniker": "BPE_Su2\\Source.c",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\BPE_Su2\\BPE_Su2\\Source.c",
+              "RelativeToolTip": "BPE_Su2\\Source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-05T06:08:56.468Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
